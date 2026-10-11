@@ -1,8 +1,8 @@
 {
  "versionCode": 138,
  "versionName": "1.8.54",
- "notes": "锦盒 1.8.54",
- "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.54/锦盒-v1.8.54-arm64.apk",
+ "notes": "○ 工具页不卡了:翻页不再重做那一排圆点、滑动时复用得更实,水波纹回来了。\n○ 包体从 2.79 GB 缩到约 307 MiB —— 版面分析 / 抠图 / 中文大字库改成按需下载,哪一款要用才取哪一款(设置 → 模型)。\n○ 取模型有两个来源:先走家里那台(同一个 WiFi 最快),不成再走 GitHub。\n○ 修掉一个会让页面卡死的循环,以及二倍字号下的裁字。",
+ "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.54/%E9%94%A6%E7%9B%92-v1.8.54-arm64.apk",
  "size": 321742583,
  "md5": "1be8f0a62da4d9b0c8dcf5d0890f1b14"
 }
