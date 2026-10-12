@@ -2,7 +2,7 @@
  "versionCode": 141,
  "versionName": "1.8.57",
  "notes": "○ 又删掉十三处话:节气、气象预警、景深、动态口令、就近配对、快递、色盲对照、录音转字幕、彩票、热榜、咖啡因、成语词典、经期记录、传感器校准、工作日、保质期台账…删的全是「介绍自家界面」和「同一件事说两遍」;\n○ 该说的一句没少:失败怎么救、删数据前的提醒、隐私与联网交代、免责与就医口径、「这台机器读不到」这类能力边界,全部原样留着;\n○ 首页那一屏的说明文字合计 9203 → 8978 字(整页 21339 → 21187 字),超线页 50 → 47。",
- "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.57/jinhe-v1.8.57-beta-arm64.apk",
- "size": 340345293,
- "md5": "8f69186accb91ad2a9a7556d55ce42cf"
+ "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.57/jinhe-v1.8.57-arm64.apk",
+ "size": 340345281,
+ "md5": "aefb0e706dc6dd8dbb8133133a330421"
 }
