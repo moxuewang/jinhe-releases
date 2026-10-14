@@ -1,8 +1,8 @@
 {
- "versionCode": 142,
- "versionName": "1.8.58",
- "notes": "官方插件按类别单独下载，首装保留 PDF 转 TXT 和三件音乐插件。\n修复油耗记录保存、翻译模型重试反馈，并简化每日一签与内网地址帮助。",
- "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.58/jinhe-v1.8.58-arm64.apk",
- "size": 339565501,
- "md5": "937dfe7ec3e4fbce20cd2448ceb86693"
+ "versionCode": 143,
+ "versionName": "1.8.59",
+ "notes": "首页卡片与“我的”页统一布局；新增按需安装的文件管家，支持原目录批量改名、预览、撤销与中断恢复；修复大文件导出截短及工作台读取失败时的数据保护。",
+ "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.59/jinhe-v1.8.59-arm64.apk",
+ "size": 339614273,
+ "md5": "814b681415688f307b6b568455aecd7d"
 }
