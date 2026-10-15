@@ -1,8 +1,8 @@
 {
- "versionCode": 144,
- "versionName": "1.8.60",
- "notes": "全部76个官方插件随包更新；新增文件工作室、文件清单、清单对比；文件管家支持复制、新建目录与校验，插件和原生工具共用工作台材料；包含三件音乐工具声音修复。",
- "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.60/jinhe-v1.8.60-arm64.apk",
- "size": 340690354,
- "md5": "1ecc387ebb68ddf1c75c8fda5abfaa9b"
+ "versionCode": 145,
+ "versionName": "1.8.61",
+ "notes": "新增对话分镜与工作台交接；升级密码本和记账本的保存、恢复流程；支持外部插件导入、更多文档和压缩格式；十六进制阅览支持跨行选择；77件官方插件全部随包。",
+ "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.61/jinhe-v1.8.61-arm64.apk",
+ "size": 342188710,
+ "md5": "690c6ce4d96c54ab115f27a756cff9f3"
 }
