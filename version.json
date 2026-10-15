@@ -1,8 +1,8 @@
 {
- "versionCode": 143,
- "versionName": "1.8.59",
- "notes": "首页卡片与“我的”页统一布局；新增按需安装的文件管家，支持原目录批量改名、预览、撤销与中断恢复；修复大文件导出截短及工作台读取失败时的数据保护。",
- "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.59/jinhe-v1.8.59-arm64.apk",
- "size": 339614273,
- "md5": "814b681415688f307b6b568455aecd7d"
+ "versionCode": 144,
+ "versionName": "1.8.60",
+ "notes": "全部76个官方插件随包更新；新增文件工作室、文件清单、清单对比；文件管家支持复制、新建目录与校验，插件和原生工具共用工作台材料；包含三件音乐工具声音修复。",
+ "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.60/jinhe-v1.8.60-arm64.apk",
+ "size": 340690354,
+ "md5": "1ecc387ebb68ddf1c75c8fda5abfaa9b"
 }
