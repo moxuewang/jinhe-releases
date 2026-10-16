@@ -1,8 +1,8 @@
 {
- "versionCode": 147,
- "versionName": "1.8.63",
- "notes": "工具卸载失败可继续处理，六件工具支持独立卸载恢复；新增纸盒展开与方案决策矩阵。",
- "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.63/jinhe-v1.8.63-arm64.apk",
- "size": 357812013,
- "md5": "f2fbc68092a88334cf865b5a4b54d00e"
+ "versionCode": 148,
+ "versionName": "1.8.64",
+ "notes": "支持官网下载单件、族包、分类和全集；恢复工具可在后台逐项完成，未完成项可单独重试。",
+ "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.64/jinhe-v1.8.64-arm64.apk",
+ "size": 357850105,
+ "md5": "ddcc135cf307105167572a549b6e34d9"
 }
