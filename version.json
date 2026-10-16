@@ -1,8 +1,8 @@
 {
- "versionCode": 148,
- "versionName": "1.8.64",
- "notes": "工具包与恢复\n\n- 官方下载增加六件工具的独立安装包，并纳入对应族包、分类包和官方全集。\n- 从浏览器打开工具包后确认导入，转屏时保留当前进度；部分未完成可以单独重试。\n- 恢复官方工具改为后台逐项完成，未完成项可单独重试。\n- 修复离开导入页面时，部分完成的临时文件未及时释放。",
- "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.64/jinhe-v1.8.64-arm64.apk",
- "size": 357850105,
- "md5": "ddcc135cf307105167572a549b6e34d9"
+ "versionCode": 149,
+ "versionName": "1.8.65",
+ "notes": "记录与工作台\n\n- 新增流程核对单、物品借还与字幕校对，支持工作台材料交接和结果保存。\n- 新工具的记录独立保存，升级及分享工具代码时保护个人资料。\n- 同版本、同内容的工具包重复导入会直接跳过，组合导入增加内容核验。\n- 修复重装工具仍运行旧脚本、升级后显示旧版本和工作台文件名称缺失的问题。",
+ "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.65/jinhe-v1.8.65-arm64.apk",
+ "size": 357982816,
+ "md5": "1aea2374bfaa4ec19a2973f78e34cb0c"
 }
