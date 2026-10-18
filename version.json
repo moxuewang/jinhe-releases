@@ -1,8 +1,8 @@
 {
- "versionCode": 149,
- "versionName": "1.8.65",
- "notes": "记录与工作台\n\n- 新增流程核对单、物品借还与字幕校对，支持工作台材料交接和结果保存。\n- 新工具的记录独立保存，升级及分享工具代码时保护个人资料。\n- 同版本、同内容的工具包重复导入会直接跳过，组合导入增加内容核验。\n- 修复重装工具仍运行旧脚本、升级后显示旧版本和工作台文件名称缺失的问题。",
- "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.65/jinhe-v1.8.65-arm64.apk",
- "size": 357982816,
- "md5": "1aea2374bfaa4ec19a2973f78e34cb0c"
+ "versionCode": 150,
+ "versionName": "1.8.66",
+ "notes": "离线乐谱与设备文件\n\n- 内置 1662 份本地乐谱，支持断网查找、谱面阅读与 MIDI 播放。\n- 乐谱支持声部、速度和音乐工具联动，修复发送失败、部分 MIDI 解析和低音缺失。\n- 文件管家支持设备文件授权、批量复制、改名撤销与工作台交接。\n- 统一首页与“我的”卡片，精简工具说明，减少网页工具进入时的额外等待。\n- 大型官方工具包改用流式处理，支持完整谱库的导入与恢复。\n- 项目来源与许可集中到“关于 → 项目与许可”，精简乐谱工具里的冗长说明。",
+ "url": "https://github.com/moxuewang/jinhe-releases/releases/download/v1.8.66/jinhe-v1.8.66-arm64.apk",
+ "size": 1775033085,
+ "md5": "f40ed6ea1de6cb77a290745c915891f7"
 }
